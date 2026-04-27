@@ -2,3 +2,6 @@ master.img
 *.bin
 bochs.out
 bochsrc.disk
+*.out
+*.lock
+*.log
